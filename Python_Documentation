@@ -1,0 +1,18 @@
+# We can find all of the options with writing this in console:
+""" python -m pydoc """
+#we can use pydoc as using name of the something and it gives us some documentation about this thing
+
+python -m pydoc math
+python -m pydoc tuple
+python -m pydoc pow
+
+#we can also search documentation with the keyword
+
+python -m pydoc -k ftp #ftp is a key word here
+
+#we can also start an http server with given hostname, which is fulled by modules.For example:
+
+python -m pydoc -p 314
+
+#this code creates an html file which includes information about json!
+python -m pydoc -w json

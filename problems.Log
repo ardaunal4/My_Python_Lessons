@@ -1,0 +1,4 @@
+INFO:root:Time required for Google_Date.csv = 0.00015544891357421875
+INFO:root:Time required for json.html = 6.723403930664062e-05
+ERROR:root:[Errno 2] No such file or directory: 'maraba'
+INFO:root:Time required for maraba = 0.00015282630920410156
