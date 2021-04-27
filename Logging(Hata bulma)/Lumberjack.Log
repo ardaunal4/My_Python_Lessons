@@ -1,0 +1,6 @@
+INFO 2020-02-07 22:33:55,427 - Our first message
+DEBUG 2020-02-07 22:33:55,427 - This is a debug message. 
+INFO 2020-02-07 22:33:55,427 - This is a info message
+WARNING 2020-02-07 22:33:55,428 - This is warning message.
+ERROR 2020-02-07 22:33:55,428 - This is a error message.
+CRITICAL 2020-02-07 22:33:55,428 - This is a critical message. 
